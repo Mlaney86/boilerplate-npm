@@ -1,10 +1,11 @@
 {
-	"author": "Matt me",
+	
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
+	"author": "Matt",
 	"scripts": {
 		"start": "node server.js"
 	},
